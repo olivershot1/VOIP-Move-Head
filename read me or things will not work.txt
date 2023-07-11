@@ -1,0 +1,7 @@
+hey 
+
+
+this script alows your character to move there head while someone else is talking
+
+
+please add this script to qb-smallresoures client then just drag and drop and then restart the server you can rename the cl.lua to whatever you want 
